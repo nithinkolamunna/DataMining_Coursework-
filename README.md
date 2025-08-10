@@ -2,8 +2,8 @@
 This is my MSc's Data Mining subject's Course work
 
 
-Question 1: Regression
-Dataset
+**Question 1: Regression**
+**Dataset**
 The provided dataset contains the salaries of different Data Science job roles in different
 companies in different regions.
 The feature in the dataset are:
@@ -19,7 +19,8 @@ employee_residence: Employee's primary country of residence in during the work y
 remote_ratio: The overall amount of work done remotely
 company_location: The country of the employer's main office or contracting branch
 company_size: The median number of people that worked for the company during the year
-Task
+
+**Task**
 Your task is to use this dataset to predict the salary of a data science role in USD given a set of
 features. While you achieve this task, you need to address the following sub tasks.
 1. Perform EDA (Explotary Data Analysis) on the dataset provided
@@ -34,8 +35,8 @@ these models individually using techniques like hyper-parameter tuning, regulari
 
 
 
-Question 2: Clustering
-Dataset
+**Question 2: Clustering
+Dataset**
 You are given the data for years 2015 and 2019 from World Happiness Report which includes
 various socio-economic and well-being indicators that help measure the happiness level of countries.
 Below is a brief description of its key features:
@@ -51,7 +52,8 @@ Perceptions of Corruption: Level of trust in government and business, with highe
 indicating greater corruption concerns.
 Dystopia Residual: A theoretical benchmark that accounts for unexplained variations in happiness
 across countries.
-Task
+
+**Task**
 1. Perform Exploratory Data Analysis (EDA) to understand patterns and detect anomalies.
 2. Outlier Detection and Removal (if required) by identifying and handling numerical outliers.
 3. Feature Scaling and Transformation through normalization or standardization for
